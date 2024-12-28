@@ -157,5 +157,18 @@ The Master Sheet provides a top-level view of the PCB design, showing how all th
 
 ---
 
-## Next Steps
-The next phase involves designing the PCB layout to implement the schematic design. The layout will ensure optimal placement and routing for all components to minimize noise, maintain signal integrity, and ensure ease of manufacturing.
+## PCB Layout Visualizations
+
+- **Top Layer**:
+![Top Layer](https://i.imgur.com/ryyUIOh.png)
+- **Power Layer**:
+![Power Layer](https://i.imgur.com/CQRpa47.png)
+- **Ground Layer**: 
+![Ground Layer](https://i.imgur.com/O8uv7cl.png)
+- **Bottom Layer**:
+![Bottom Layer](https://i.imgur.com/VSsLdHn.png)
+
+## 3D Model
+![3D Model](https://i.imgur.com/xLreRyp.png)
+![3D Model](https://i.imgur.com/qAoSosl.png)
+![3D Model](https://i.imgur.com/cCCLOtA.png)
