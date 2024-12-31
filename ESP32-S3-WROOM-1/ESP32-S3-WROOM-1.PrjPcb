@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JZRPWFWT
 
 [Document9]
-DocumentPath=PCB.PcbDoc
+DocumentPath=ESP32-S3-PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -200,7 +200,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PDMLPNGM
+DocumentUniqueId=UMOQDLKI
 
 [Configuration1]
 Name=Sources
@@ -1010,8 +1010,8 @@ Type66=3
 Type67=2
 Type68=2
 Type69=0
-Type70=2
-Type71=2
+Type70=0
+Type71=0
 Type72=2
 Type73=2
 Type74=1
