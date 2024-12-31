@@ -17,7 +17,7 @@ This project involves the design and implementation of a custom PCB based on the
 ---
 
 ## System Overview (Master Sheet)
-![Master Sheet](https://i.imgur.com/HvE0amj.png)
+![Master Sheet](https://i.imgur.com/MODrUup.png)
 The Master Sheet provides a top-level view of the PCB design, showing how all the subsystems connect:
 
 
@@ -38,7 +38,7 @@ The Master Sheet provides a top-level view of the PCB design, showing how all th
 ## Schematics
 
 ### 1. **ESP USB Circuit**
-![ESP USB Circuit](https://i.imgur.com/YaYjxaE.png)
+![ESP USB Circuit](https://i.imgur.com/5o2Wl2J.png)
 
 - **Purpose**: Connects the ESP32-S3 module to a USB interface for power and data transfer.
 - **Key Components**:
@@ -160,15 +160,15 @@ The Master Sheet provides a top-level view of the PCB design, showing how all th
 ## PCB Layout Visualizations
 
 - **Top Layer**:
-![Top Layer](https://i.imgur.com/ryyUIOh.png)
+![Top Layer](https://i.imgur.com/joLkJMe.png)
 - **Power Layer**:
-![Power Layer](https://i.imgur.com/CQRpa47.png)
+![Power Layer](https://i.imgur.com/UHKS3io.png)
 - **Ground Layer**: 
-![Ground Layer](https://i.imgur.com/O8uv7cl.png)
+![Ground Layer](https://i.imgur.com/z5LnnIi.png)
 - **Bottom Layer**:
-![Bottom Layer](https://i.imgur.com/VSsLdHn.png)
+![Bottom Layer](https://i.imgur.com/LMaZHfr.png)
 
 ## 3D Model
-![3D Model](https://i.imgur.com/xLreRyp.png)
-![3D Model](https://i.imgur.com/qAoSosl.png)
-![3D Model](https://i.imgur.com/cCCLOtA.png)
+![3D Model](https://i.imgur.com/73E3nQL.png)
+![3D Model](https://i.imgur.com/gK2nxIN.png)
+![3D Model](https://i.imgur.com/ECbArVH.png)
